@@ -1,0 +1,4 @@
+name,shard_key,Nc_label,J,final_round,test_acc,val_acc,test_loss,val_loss
+test_sampled_uniform_1_J_16,sampled_uniform_1,Nc=1,16,500,0.1949,0.1824,3.3472,3.3357
+test_sampled_uniform_1_J_4,sampled_uniform_1,Nc=1,4,2000,0.2788,0.2586,2.9421,3.0401
+test_sampled_uniform_1_J_8,sampled_uniform_1,Nc=1,8,1000,0.2559,0.226,3.0423,3.2134
